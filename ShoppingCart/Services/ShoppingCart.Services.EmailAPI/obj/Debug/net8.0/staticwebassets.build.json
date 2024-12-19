@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7pBccD4U/j2b4SKgOh48SQaUKjrI7RT7FyUspdpdXLo=",
+  "Source": "ShoppingCart.Services.EmailAPI",
+  "BasePath": "_content/ShoppingCart.Services.EmailAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

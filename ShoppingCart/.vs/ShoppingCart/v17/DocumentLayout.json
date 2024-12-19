@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emrah.ince\\Desktop\\PerformansDegerlendirme\\ShoppingCart\\ShoppingCart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28049556-6F0B-46C0-826A-A3C3C2F9D82F}|Services\\ShoppingCart.Services.ShoppingCartAPI\\ShoppingCart.Services.ShoppingCartAPI.csproj|c:\\users\\emrah.ince\\desktop\\performansdegerlendirme\\shoppingcart\\shoppingcart\\services\\shoppingcart.services.shoppingcartapi\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28049556-6F0B-46C0-826A-A3C3C2F9D82F}|Services\\ShoppingCart.Services.ShoppingCartAPI\\ShoppingCart.Services.ShoppingCartAPI.csproj|solutionrelative:services\\shoppingcart.services.shoppingcartapi\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\emrah.ince\\Desktop\\PerformansDegerlendirme\\ShoppingCart\\ShoppingCart\\Services\\ShoppingCart.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "RelativeDocumentMoniker": "Services\\ShoppingCart.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "ToolTip": "C:\\Users\\emrah.ince\\Desktop\\PerformansDegerlendirme\\ShoppingCart\\ShoppingCart\\Services\\ShoppingCart.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "RelativeToolTip": "Services\\ShoppingCart.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAIwNEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T22:38:52.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\emrah.ince\Desktop\PerformansDegerlendirme\ShoppingCart\ShoppingCart\Integration\ShoppingCart.MessageBus\bin\Debug\net8.0\ShoppingCart.MessageBus.deps.json
+C:\Users\emrah.ince\Desktop\PerformansDegerlendirme\ShoppingCart\ShoppingCart\Integration\ShoppingCart.MessageBus\bin\Debug\net8.0\ShoppingCart.MessageBus.dll
+C:\Users\emrah.ince\Desktop\PerformansDegerlendirme\ShoppingCart\ShoppingCart\Integration\ShoppingCart.MessageBus\bin\Debug\net8.0\ShoppingCart.MessageBus.pdb
+C:\Users\emrah.ince\Desktop\PerformansDegerlendirme\ShoppingCart\ShoppingCart\Integration\ShoppingCart.MessageBus\obj\Debug\net8.0\ShoppingCart.MessageBus.csproj.AssemblyReference.cache
+C:\Users\emrah.ince\Desktop\PerformansDegerlendirme\ShoppingCart\ShoppingCart\Integration\ShoppingCart.MessageBus\obj\Debug\net8.0\ShoppingCart.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrah.ince\Desktop\PerformansDegerlendirme\ShoppingCart\ShoppingCart\Integration\ShoppingCart.MessageBus\obj\Debug\net8.0\ShoppingCart.MessageBus.AssemblyInfoInputs.cache
+C:\Users\emrah.ince\Desktop\PerformansDegerlendirme\ShoppingCart\ShoppingCart\Integration\ShoppingCart.MessageBus\obj\Debug\net8.0\ShoppingCart.MessageBus.AssemblyInfo.cs
+C:\Users\emrah.ince\Desktop\PerformansDegerlendirme\ShoppingCart\ShoppingCart\Integration\ShoppingCart.MessageBus\obj\Debug\net8.0\ShoppingCart.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\emrah.ince\Desktop\PerformansDegerlendirme\ShoppingCart\ShoppingCart\Integration\ShoppingCart.MessageBus\obj\Debug\net8.0\ShoppingCart.MessageBus.sourcelink.json
+C:\Users\emrah.ince\Desktop\PerformansDegerlendirme\ShoppingCart\ShoppingCart\Integration\ShoppingCart.MessageBus\obj\Debug\net8.0\ShoppingCart.MessageBus.dll
+C:\Users\emrah.ince\Desktop\PerformansDegerlendirme\ShoppingCart\ShoppingCart\Integration\ShoppingCart.MessageBus\obj\Debug\net8.0\refint\ShoppingCart.MessageBus.dll
+C:\Users\emrah.ince\Desktop\PerformansDegerlendirme\ShoppingCart\ShoppingCart\Integration\ShoppingCart.MessageBus\obj\Debug\net8.0\ShoppingCart.MessageBus.pdb
+C:\Users\emrah.ince\Desktop\PerformansDegerlendirme\ShoppingCart\ShoppingCart\Integration\ShoppingCart.MessageBus\obj\Debug\net8.0\ref\ShoppingCart.MessageBus.dll

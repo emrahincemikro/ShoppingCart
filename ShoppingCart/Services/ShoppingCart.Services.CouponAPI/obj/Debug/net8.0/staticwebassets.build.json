@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "krPb+j6IR4/KqU/S445f9sY7X1gOvRJ9cNJdVGc6R7U=",
+  "Source": "ShoppingCart.Services.CouponAPI",
+  "BasePath": "_content/ShoppingCart.Services.CouponAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
